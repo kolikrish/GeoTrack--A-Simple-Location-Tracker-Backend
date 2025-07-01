@@ -18,6 +18,6 @@ A lightweight backend service for tracking and managing user locations in real-t
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/geotrack.git
+git clone https://github.com/kolikrish/geotrack.git
 cd geotrack
 npm install
